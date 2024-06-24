@@ -1,0 +1,11 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+data.csv
+dataFirstTry.csv
+dataFirstTrySaved.csv
+База данных МХТ.csv
+*.csv
+*.xlsx
+*.zip
